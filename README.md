@@ -12,7 +12,7 @@ Gim Edukasi Mengajar : https://gdexp-games.itch.io/education / GITHUB : https://
 
 WildAR: https://gdexp-games.itch.io/wildar-games / GITHUB : https://github.com/Riatzu/ProjectAR_Wild
 
-Pulang Sekolah :  / GITHUB : https://github.com/RaihanRamadhan31321/Pulang-Sekolah-Moment-
+Pulang Sekolah : https://gdexp-games.itch.io/pulang-sekolah-moment / GITHUB : https://github.com/RaihanRamadhan31321/Pulang-Sekolah-Moment-
 
 Kunjangan ngadi-ngadi : https://anuka-ini-anu.itch.io/ngadi-ngadi / GITHUB : https://github.com/RaihanRamadhan31321/Anuka
 
